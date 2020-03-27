@@ -1,0 +1,15 @@
+.titleBold {
+    font-weight:bold;
+}
+.italic {
+    font-style:italic;
+}
+h2 {
+    text-align: center; /* centré */
+    }
+.rouge {
+    color: red
+}
+.vert {
+    color:green
+}
